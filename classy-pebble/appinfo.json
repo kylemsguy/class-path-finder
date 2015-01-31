@@ -1,0 +1,17 @@
+{
+  "uuid": "ed6413ff-aaaa-4129-81cb-90d3ec6e6c25",
+  "shortName": "classy-pebble",
+  "longName": "classy-pebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
